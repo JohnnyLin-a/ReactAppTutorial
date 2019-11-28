@@ -1,3 +1,14 @@
+React tutorial:
+Followed Mosh's tutorial at https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+Programming using VSCode
+Node v12.13.1 LTS
+
+
+
+
+--Below is the auto generated stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
